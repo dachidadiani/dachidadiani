@@ -6,8 +6,5 @@
 - 📫 How to reach me dadianidachi54@gmail.com
 
 
+![programming](https://github.com/user-attachments/assets/aa0e90b6-687c-4b2d-999d-129741ddc255)
 
-<!---
-dachidadiani/dachidadiani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
